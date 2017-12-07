@@ -1,0 +1,8 @@
+最近在学C++,自己本身做交易，就拿上期API练练手，代码参考https://github.com/tashaxing/CTPtest，所有lincence归tashaxing所有
+这里主要改了几方面的内容：
+lib库改为64位;
+strcpy改为strcpy_s;
+sprintf改为sprintf_s;
+char*a[] = {"12","23"}改为：a1="12";a2="23";char a*={a1,a2};
+scanf改为scanf_s;
+其他代码和作者代码一致
