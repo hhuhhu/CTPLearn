@@ -1,0 +1,7 @@
+﻿  CustomMdSpi.cpp
+  CustomTradeSpi.cpp
+  main.cpp
+  StrategyTrade.cpp
+..\src\StrategyTrade.cpp(23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  TickToKlineHelper.cpp
+LINK : fatal error LNK1104: 无法打开文件“thostmduserapi.lib”
